@@ -9,15 +9,15 @@ Ideal for beginners learning Django authentication.
 
 ## 🚀 Features
 
-User Registration
-User Login
-User Logout
-Password Hashing (Secure)
-Form Validation
-Custom Django Apps (`app` & `usercreationform`)
-Templates for All Pages
-Beginner-Friendly Code Structure
-Reusable Django Components
+- User Registration  
+- User Login  
+- User Logout  
+- Password Hashing (Secure)  
+- Form Validation  
+- Custom Django Apps (`app` & `usercreationform`)  
+- Templates for All Pages  
+- Beginner-Friendly Code Structure  
+- Reusable Django Components  
 
 ## 📂 Project Structure
 
